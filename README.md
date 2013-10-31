@@ -1,17 +1,11 @@
 # Mitochondrial Solar Plot
 
-Clone the repo, enter the directory, start R:
+Clone the repo, enter the directory, source the script:
 
 ```bash
 git clone git@github.com:stephenturner/solarplot.git
 cd solarplot
-R
-```
-
-Run the code in R:
-
-```S
-source("solarplot.R")
+R CMD BATCH solarplot.R
 ```
 
 ![solarplot](./solarplot.png)
