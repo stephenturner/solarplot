@@ -8,6 +8,8 @@ cd solarplot
 R
 ```
 
+Run the code in R:
+
 ```S
 source("solarplot.R")
 ```
