@@ -1,6 +1,6 @@
 # Mito solar plots for Mito PheWAS
 
-# Source: https://github.com/hadley/ggplot2/wiki/Plotting-Mitochondrial-Genetic-Association-Results
+# See also: https://github.com/hadley/ggplot2/wiki
 
 # Import text file into R Studio with columns (at least): bp, pheno, p
 
