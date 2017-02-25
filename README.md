@@ -1,5 +1,7 @@
 # Mitochondrial Solar Plot
 
+**_This repo is no longer maintained_**.
+
 Clone the repo, enter the directory, source the script:
 
 ```bash
